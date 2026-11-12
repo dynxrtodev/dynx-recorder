@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.screenrecorder.app-debug-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.screenrecorder.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.screenrecorder.app-debug-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.screenrecorder.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.screenrecorder.app-debug-50:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.example.screenrecorder.app-main-52:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.screenrecorder.app-debug-50:/drawable_ic_record.xml.flat",
+        "source": "com.example.screenrecorder.app-main-52:/drawable/ic_record.xml"
+    },
+    {
+        "merged": "com.example.screenrecorder.app-debug-50:/mipmap_ic_launcher.xml.flat",
+        "source": "com.example.screenrecorder.app-main-52:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.screenrecorder.app-debug-50:/drawable_ic_stop.xml.flat",
+        "source": "com.example.screenrecorder.app-main-52:/drawable/ic_stop.xml"
+    },
+    {
+        "merged": "com.example.screenrecorder.app-debug-50:/drawable_bg_floating.xml.flat",
+        "source": "com.example.screenrecorder.app-main-52:/drawable/bg_floating.xml"
+    },
+    {
+        "merged": "com.example.screenrecorder.app-debug-50:/drawable_ic_pause.xml.flat",
+        "source": "com.example.screenrecorder.app-main-52:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.example.screenrecorder.app-debug-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.screenrecorder.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.screenrecorder.app-debug-50:/layout_floating_controls.xml.flat",
+        "source": "com.example.screenrecorder.app-main-52:/layout/floating_controls.xml"
+    },
+    {
+        "merged": "com.example.screenrecorder.app-debug-50:/drawable_ic_share.xml.flat",
+        "source": "com.example.screenrecorder.app-main-52:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.screenrecorder.app-debug-50:/xml_file_paths.xml.flat",
+        "source": "com.example.screenrecorder.app-main-52:/xml/file_paths.xml"
+    }
+]

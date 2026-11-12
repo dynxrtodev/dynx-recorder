@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Screen Recorder</string>
+
+    <string name="section_video">Video</string>
+    <string name="section_audio">Audio</string>
+    <string name="section_misc">Lainnya</string>
+
+    <string name="label_resolution">Resolusi</string>
+    <string name="label_fps">Frame rate: %1$d fps</string>
+    <string name="label_bitrate">Bitrate video: %1$d Mbps</string>
+    <string name="label_bitrate_auto">Bitrate video: otomatis</string>
+    <string name="label_mic_gain">Volume mikrofon: %1$.1fx</string>
+    <string name="label_internal_gain">Volume audio internal: %1$.1fx</string>
+    <string name="label_floating_button">Tombol mengambang</string>
+    <string name="label_countdown">Hitung mundur: %1$d detik</string>
+    <string name="label_max_duration">Batas durasi: %1$d menit</string>
+    <string name="label_max_duration_off">Batas durasi: tidak ada</string>
+    <string name="off">Mati</string>
+
+    <string name="audio_none">Tanpa audio</string>
+    <string name="audio_mic">Mikrofon saja</string>
+    <string name="audio_internal">Audio internal saja (Android 10+)</string>
+    <string name="audio_both">Mikrofon + audio internal</string>
+    <string name="hint_internal_audio">Audio internal butuh Android 10 atau lebih baru. Sebagian aplikasi (misalnya layanan streaming berlisensi) memblokir perekaman audionya; bagian itu akan terekam senyap.</string>
+
+    <string name="action_start">Mulai Rekam</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Lanjut</string>
+    <string name="action_share">Bagikan</string>
+    <string name="action_grant_overlay">Beri izin tampil di atas aplikasi lain</string>
+    <string name="action_open_recordings">Buka hasil rekaman</string>
+
+    <string name="status_idle">Siap merekam</string>
+    <string name="status_recording">Sedang merekam…</string>
+    <string name="status_paused">Dijeda</string>
+    <string name="status_saved">Rekaman tersimpan</string>
+    <string name="status_failed">Rekaman gagal</string>
+
+    <string name="notif_preparing">Menyiapkan rekaman…</string>
+    <string name="notif_countdown">Mulai dalam %1$d…</string>
+    <string name="notif_recording">Merekam layar</string>
+    <string name="notif_paused">Rekaman dijeda</string>
+    <string name="notif_saved">Rekaman tersimpan</string>
+    <string name="notif_saved_detail">Durasi %1$s · tersimpan di Movies/ScreenRecorder</string>
+
+    <string name="channel_recording">Status rekaman</string>
+    <string name="channel_saved">Rekaman selesai</string>
+
+    <string name="permission_projection_denied">Izin tangkap layar ditolak</string>
+    <string name="permission_mic_denied">Izin mikrofon ditolak — rekaman berlanjut tanpa suara mikrofon</string>
+    <string name="record_failed">Rekaman gagal: %1$s</string>
+    <string name="save_failed">Gagal menyimpan rekaman ke galeri</string>
+    <string name="no_gallery_app">Tidak ada aplikasi galeri yang tersedia</string>
+</resources>
